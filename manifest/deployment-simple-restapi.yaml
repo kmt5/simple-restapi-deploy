@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: simple-restapi
-        image: ysakashita/simple-restapi:latest
+        image: komatsu21151/simple-restapi:latest
         ports:
         - containerPort: 8888
